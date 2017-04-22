@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:text="标题"
+            android:textColor="@android:color/black"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="内容"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="18dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/neu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="中立"
+                android:textColor="@color/colorPrimary"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/neg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:layout_toLeftOf="@+id/pos"
+                android:text="取消"
+                android:textColor="@color/colorPrimary"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/pos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="确定"
+                android:textColor="@color/colorPrimary"
+                android:textSize="16dp" />
+
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
