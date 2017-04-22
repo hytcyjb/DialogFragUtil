@@ -14,5 +14,6 @@
 
 #效果图：
 <p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/jdfw.gif?raw=true" width="230" height="427"></p>
-<p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_1.png?raw=true" width="230" height="427"></p><p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_2.png?raw=true" width="230" height="427"></p><p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_3.png?raw=true" width="230" height="427"></p>
+
+<p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_1.png?raw=true" width="230" height="427">DialogFragUtil<img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_2.png?raw=true" width="230" height="427">DialogFragUtil<img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/app_pic_3.png?raw=true" width="230" height="427"></p>
 
