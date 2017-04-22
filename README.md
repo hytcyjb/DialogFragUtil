@@ -1,7 +1,8 @@
 <h2>DialogFragUtil 打造一款DialogFragment的统一封装类</h2>
 
 <h3>参考：</h3>
-   1.（封装布局内的id）封装adapter内使用的保存layout的id方法：http://www.cniao5.com/forum/thread/2ac69d820f0611e790dc00163e0230fa
+   1.（封装布局内的id）封装adapter内使用的保存layout的id方法：
+           http://www.cniao5.com/forum/thread/2ac69d820f0611e790dc00163e0230fa
    2.（自定义DialogFragment的高度使用）https://github.com/shaohui10086/BottomDialog.git
 
 /**
