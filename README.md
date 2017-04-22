@@ -1,6 +1,6 @@
 <h2>DialogFragUtil 打造一款DialogFragment的统一封装类</h2>
 
-<h3>参考：</h3>
+<h3>1.参考：</h3>
    1.（封装布局内的id）封装adapter内使用的保存layout的id方法：
            http://www.cniao5.com/forum/thread/2ac69d820f0611e790dc00163e0230fa
            
@@ -14,7 +14,7 @@
  *
 
  */
-<h3>效果图：</h3>
+<h3>2.效果图：</h3>
 
 <p><img src="https://github.com/hytcyjb/DialogFragUtil/blob/master/screenshot/jdfw.gif?raw=true" width="230" height="427"></p>
 
